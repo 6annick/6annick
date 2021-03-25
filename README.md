@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6annick
 - 🐳 Twitter: @6annick
 - 🦅 Instagram: @ywniks
-- 🤾🏻‍♀️ 𓀊 BackHend gang
+- 🤾🏻‍♀️ BackHend gang
 
 <!---
 6annick/6annick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
