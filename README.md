@@ -2,6 +2,7 @@
 - 🐳 Twitter: @6annick
 - 🦅 Instagram: @ywniks
 - 🤾🏻‍♀️ BackHend gang
+- 💰 AAG Gang
 
 <!---
 6annick/6annick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
